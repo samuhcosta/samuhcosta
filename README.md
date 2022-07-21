@@ -1,7 +1,7 @@
 ## Olá, me chamo Samuel Costa Ferreira ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/samuhcosta/samuhcosta/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 Atualmente estou trabalhando no Tribunal Regional Federal da 1º Região como Estagiário de TI
 - 🌱 Atualmente estou aprendendo Desenvolvimento Full Stack, Java, Python e Django
