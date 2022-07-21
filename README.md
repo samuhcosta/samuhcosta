@@ -1,6 +1,8 @@
 ## Olá, me chamo Samuel Costa Ferreira ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
+https://tenor.com/1lq0.gif
+
 - 🔭 Atualmente estou trabalhando no Tribunal Regional Federal da 1º Região como Estagiário de TI
 - 🌱 Atualmente estou aprendendo Desenvolvimento Full Stack, Java, Python e Django
 - 👯 Estou procurando colaborar na área de Desenvolvimento
