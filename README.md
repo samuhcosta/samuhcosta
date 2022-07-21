@@ -1,7 +1,10 @@
 ## Olá, me chamo Samuel Costa Ferreira ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-<div class="tenor-gif-embed" data-postid="12674712" data-share-method="host" data-aspect-ratio="1.78" data-width="100%"><a href="https://tenor.com/view/monkey-computer-not-working-computer-broken-computer-problems-computer-issues-gif-12674712">Monkey Computer Not Working GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <div class="tenor-gif-embed" data-postid="12674712" data-share-method="host" data-aspect-ratio="1.78" data-width="100%"><a href="https://tenor.com/view/monkey-computer-not-working-computer-broken-computer-problems-computer-issues-gif-12674712">Monkey Computer Not Working GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a>
+</div> 
+
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🔭 Atualmente estou trabalhando no Tribunal Regional Federal da 1º Região como Estagiário de TI
 - 🌱 Atualmente estou aprendendo Desenvolvimento Full Stack, Java, Python e Django
