@@ -3,14 +3,13 @@
 
 ![Snake animation](https://github.com/samuhcosta/samuhcosta/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 Atualmente estou trabalhando no Tribunal Regional Federal da 1º Região como Estagiário de TI
-- 🌱 Atualmente estou aprendendo Desenvolvimento Full Stack, Java, Python e Django
-- 👯 Estou procurando colaborar na área de Desenvolvimento
-- 🤔 Estou procurando ajuda com meus conhecimentos, experiências e aprender mais.
-- 💬 Tudo que não sei, me comprometo e aprender!
-- 📫 Para entrar em contato comigo, me envie uma mensagem no e-mail "sc434469@gmail.com"
-- 😄 Pronomes: ...
-- ⚡ Curiosidade sobre mim: Sou uma pessoa focada e criativa que se esforça a aprender e ter um conhecimento bom
+🔭 Experiência como Estagiário de TI no Tribunal Regional Federal da 1ª Região
+🌱 Atualmente, estou mergulhando no universo do Desenvolvimento Full Stack, explorando Java, Python e Django
+👯 Em busca de oportunidades de colaboração na área de Desenvolvimento
+🤔 Aberto a receber orientação para expandir meus conhecimentos e experiências
+💬 Comprometido em aprender tudo o que ainda não sei!
+📫 Entre em contato comigo enviando um e-mail para sc434469@gmail.com
+⚡ Curiosidade sobre mim: Sou uma pessoa focada e criativa, sempre em busca de aprendizado e aprimoramento.
 
 ### Ferramentas e Tecnologias
 
